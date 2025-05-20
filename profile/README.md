@@ -1,3 +1,3 @@
 # Sofer.Ai
 
-Intelligent transcription, designed for the Jewish community.
+The AI platform designed for the Jewish community
